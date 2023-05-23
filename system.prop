@@ -1,0 +1,18 @@
+# Product
+ro.chipname=MSM8228
+
+# LCD
+ro.sf.lcd_density=320
+
+# Graphics
+debug.sf.hw=1
+debug.egl.hw=1
+debug.composition.type=c2d
+persist.hwc.mdpcomp.enable=true
+debug.disable.bwc=1
+debug.mdpcomp.logs=0
+dev.pm.dyn_samplingrate=1
+persist.demo.hdmirotationlock=false
+
+# Simulate sdcard on /data/media
+persist.fuse_sdcard=true
