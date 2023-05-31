@@ -7,7 +7,7 @@
 
 2. Clone this repository to `device/samsung/kmini3g`
 ```
-git clone https://github.com/prototype74/android_device_samsung_kmini3g.git device/samsung/kmini3g
+git clone https://github.com/prototype74/android_device_samsung_kmini3g.git -b android-7.1 device/samsung/kmini3g
 ```
 
 3. Build the recovery image
