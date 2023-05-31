@@ -72,6 +72,7 @@ BOARD_USES_QC_TIME_SERVICES := true
 
 # Recovery
 BOARD_NEEDS_LZMA_MINIGZIP := true
+LZMA_RAMDISK_TARGETS := recovery
 
 # TWRP basic configs
 RECOVERY_SDCARD_ON_DATA := true
